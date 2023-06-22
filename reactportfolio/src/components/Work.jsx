@@ -6,7 +6,7 @@ const data = [
         year: "2021",
         title: "CSM på Cervera AB, Stockholm",
         duration: "FEBRUARI 2021 — SEPTEMBER 2022",
-        details: "Strategisk och stödjande för kunderna i varje skede av köpprocessen. Jag var fokuserad på att bygga lojalitet för att säkerställa långsiktig kundbehållning genom att presentera produktinformation, ta itu med kundproblem och hjälpa säljteamet med merförsäljningar och förnyelser",
+        details: "Jag arbetade strategiskt på marknad inom e-handelsbranschen och hade en stödjande roll för att maximera framgången i varje skede av köpprocessen. Istället för att ha direkt kundkontakt fokuserade jag på att bygga lojalitet och stärka relationen med kunderna genom att tillhandahålla relevant produktinformation, adressera eventuella kundproblem och stödja säljteamet i att öka merförsäljning och förnyelser",
       },
       {
         year: "2018",
