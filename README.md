@@ -1,5 +1,7 @@
 # Reactport
-Min portfolio i react med tillhörande dokument. 
+Hej! 
+
+Mitt namn är Milad, en UX designer och en Frontendutvecklare.
 
 Här är min UX Portfolio som jag har byggt som en del av kursen. Den är tillgänglig på https://miladsreact.surge.sh/
 
