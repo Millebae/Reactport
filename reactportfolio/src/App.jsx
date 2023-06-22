@@ -3,12 +3,14 @@ import Sidenav from './components/Sidenav'
 import Main from './components/Main'
 import Work from './components/Work'
 import Projects from './components/Projects'
-import Contact from './components/contact'
+import Contact from './components/Contact'
+import Weatherapp from'./components/Weatherapp'
 
 function App() {
 
   return (
  <div>
+
 <Sidenav />
 <Main/>
 <Work/>
