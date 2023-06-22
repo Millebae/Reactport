@@ -14,8 +14,8 @@ const Projects = () => {
       team found solutions that reached both the user and business goals. 
    </p>
    <div className="grid sm:grid-cols-2 gap-12">
-<ProjectItem img={spotifyTn} title='Spotify' />
-<ProjectItem img={cookwiseTn} title='Cookwise' />
+<ProjectItem img={spotifyTn} title='Spotify'link="https://uxfol.io/p/f6f8c987/020ed89d"/>
+<ProjectItem img={cookwiseTn} title='Cookwise' link="https://uxfol.io/p/f6f8c987/0299ec55" />
    </div>
     </div> );
 }
